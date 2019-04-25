@@ -1,0 +1,9 @@
+GET /hang?uname=hang HTTP/1.1
+Host: localhost:7777
+Connection: keep-alive
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+Postman-Token: 3049dc28-cb0b-5063-e74a-e64b761aaab7
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
